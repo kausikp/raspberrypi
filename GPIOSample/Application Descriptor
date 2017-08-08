@@ -1,0 +1,9 @@
+MIDlet-1: GPIOSample,,com.oracle.jmee.samples.gpio.GPIOBlinker
+MIDlet-Jar-URL: GPIOSample.jar
+MIDlet-Permission-2: java.util.PropertyPermission "microedition.platform" "read"
+MicroEdition-Configuration: CLDC-1.8
+MIDlet-Permission-1: jdk.dio.DeviceMgmtPermission "*:*" "open"
+MIDlet-Version: 1.0
+MIDlet-Name: GPIOSample
+MIDlet-Vendor: Oracle
+MicroEdition-Profile: MEEP-8.0
